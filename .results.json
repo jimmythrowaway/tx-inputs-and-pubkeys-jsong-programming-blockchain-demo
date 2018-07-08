@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 2, "skipped": 0, "encoding": "UTF-8", "total": 2}, "results": [{"classname": "index_test:TxTest", "name": "test_input_pubkey", "time": 0.0003616809844970703, "type": "success"}, {"classname": "index_test:TxTest", "name": "test_input_value", "time": 0.0011522769927978516, "type": "success"}]}
